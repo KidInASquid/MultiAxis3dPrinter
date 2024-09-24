@@ -1,6 +1,8 @@
 ## Members
 Henry Forsyth, Computer Engineering Student (2024)
 rhforsythjr@vt.edu
+Jake Menachery, Electrical Engineering Student (2028)
+jmenac0932@vt.edu
 
 ## Mentor
 MENTOR NAME HERE
