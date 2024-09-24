@@ -10,7 +10,7 @@ IN PROGRESS
 
 ## Project Overview
 
-I hope to design, build and test a 3d Printer with more than 3 axes of motion. I plan on continuing to iterate on the design and eventually raching full control over 6 axes of motion (x, y, z, pitch, roll, & yaw).
+I hope to design, build, and test a 3d Printer with more than 3 axes of motion. I plan on continuing to iterate on the design, and eventually reaching full control over 6 axes of motion (x, y, z, pitch, roll, & yaw).
 
 ## Educational Value Added
 
