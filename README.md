@@ -10,7 +10,7 @@ IN PROGRESS
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+I hope to design, build and test a 3d Printer with more than 3 axes of motion. I plan on continuing to iterate on the design and eventually raching full control over 6 axes of motion (x, y, z, pitch, roll, & yaw).
 
 ## Educational Value Added
 
